@@ -4,14 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-// Hello from Bryan
-
 namespace GitTest2
 {
-    class Program
+    class Class1
     {
-        static void Main(string[] args)
-        {
-        }
     }
 }
